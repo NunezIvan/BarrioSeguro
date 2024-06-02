@@ -1,2 +1,2 @@
-API de BarriosSeguro
+API de BarrioSeguro
 
